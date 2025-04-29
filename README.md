@@ -8,7 +8,7 @@ Se requiere tener instalado node v18.19.1
 
 Instalación
 
-git clone
+git clone git@github.com:Josedaniel98/FrontendAritmetica.git
 
 cd AritmeticaApp
 
