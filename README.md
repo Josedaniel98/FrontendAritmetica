@@ -8,7 +8,7 @@
  
  Instalación
  
- git clone
+ git clone git@github.com:Josedaniel98/FrontendAritmetica.git
  
  cd AritmeticaApp
  
